@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This assignment is for shell 
+This repository is for shell basics Tasks
